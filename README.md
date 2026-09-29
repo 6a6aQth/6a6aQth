@@ -1,4 +1,4 @@
-# Michael Lumanga
+# Michaels Lumanga
 
 **DevOps & MLOps Engineer** · growing into DevSecOps
 
