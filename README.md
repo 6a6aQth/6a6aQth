@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="assets/banner.png" alt="MidasCreed" width="100%" />
+</p>
+
 # Michaels Lumanga
 
-**DevOps & MLOps Engineer** · growing into DevSecOps
+**Founder, [MidasCreed](https://github.com/midascreed-cic)** · DevOps & MLOps Engineer · growing into DevSecOps
 
-I build secure, scalable systems by combining development, operations and security. I optimize workflows, automate the boring parts, and adapt quickly to new tech, from Cloud and AI to AR/VR and Digital Twins.
+MidasCreed is my AI and enterprise consultancy. I build secure, scalable systems by combining development, operations and security: I optimize workflows, automate the boring parts, and adapt quickly to new tech, from Cloud and AI to AR/VR and Digital Twins.
 
 ---
 
@@ -27,10 +31,6 @@ Tools        Git · Jira · Notion · Postman · Figma · Blender
 ### Find me
 
 [LinkedIn](https://linkedin.com/in/michaelslumanga) · [X](https://x.com/midascreed) · [Medium](https://medium.com/@michaelslumanga) · [Discord](https://discord.gg/michaelslumanga) · [Reddit](https://reddit.com/user/michaelslumanga) · [Quora](https://quora.com/profile/michaelslumanga) · [Email](mailto:qylumanga@gmail.com)
-
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=6a6aQth&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9e9e9e&icon_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub stats" />
 
 ---
 
