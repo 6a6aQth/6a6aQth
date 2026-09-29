@@ -4,7 +4,7 @@
 
 # Michaels Lumanga
 
-**Founder, [MidasCreed](https://github.com/midascreed-cic)** · DevOps & MLOps Engineer · growing into DevSecOps
+**Founder, [MidasCreed](https://github.com/midascreed-cic)** · DevOps & MLOps Engineer · 
 
 MidasCreed is my AI and enterprise consultancy. I build secure, scalable systems by combining development, operations and security: I optimize workflows, automate the boring parts, and adapt quickly to new tech, from Cloud and AI to AR/VR and Digital Twins.
 
